@@ -1,6 +1,4 @@
-# munta
-
-Munta is your locally hosted one-stop-shop for all your audio and pictures conversion needs. It is a containerized web frontend for `ffmpeg`. It is aimed at supporting only libre codecs. Some handy filters (like vignette for pictures and echo for audio) are also available through the conversion process.
+# Docs Le Nid
 
 ## Setup
 
