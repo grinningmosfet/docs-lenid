@@ -16,18 +16,27 @@ layout: default
 
 ---
 
-## Mise en place du pain
+## Réassort vrac
 {: .d-inline-block }
 
-Shift d'ouverture
-{: .label .label-green}
+> {: .warning }
+  Se laver les mains et utiliser un **nouveau** contenant **propre** et **sec** à chaque remplissage.
 
-- Mettre en rayon le pain de la veille, entreposé sur le rayon ou au bas du rayon.
-- Procéder à [l'étiquetage du pain](#étiquetage-du-pain).
+1. Remplir les silos et bocaux à vrac, p.ex. :
 
-## Étiquetage du pain
+ - Farines (armoires au rez-de-chaussée et stock 1er étage)
+ - Epices (au 1er étage)
+ - Céréales (bas de rayon et stock 1er étage)
+ - Noix et fruits secs (stock 1er étage)
+ - Cosmétique liquide et solide (bas de rayon et stock 1er étage)
+ - Vin en vrac (stock 1er étage)
+ - Huiles et vinaigres (bas de rayon et stock 1er étage)
+ - Tomates séchées, olives, etc. (chambre froide n°1)
 
-- Étiqueter les pains avec les étiquettes qui se trouvent dans la boîte à étiquettes à pain, sous la caisse 3, à l'aide du catalogue des pains accroché au rayon.
+> {: .note }
+  Une notice pour le montage/démontage des silos à vrac est attachée aux étagères en métal devant le lavabo au 1er étage.
+
+2. Mettre à jour les prix et signaler les produits hors stock selon la procédure habituelle.
 
 ## Nettoyage des ustensiles (pelles, louches, pinces, ...)
 
