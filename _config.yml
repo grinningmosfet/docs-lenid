@@ -3,6 +3,9 @@ theme: just-the-docs
 title: Docs Le Nid
 description: Aide-mémoire du Nid
 
+url: https://lenid.docs.slowte
+baseurl: ''
+
 defaults:
   - scope:
       path: "docs"
