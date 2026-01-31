@@ -11,4 +11,4 @@ RUN bundle install
 EXPOSE 4000
 
 USER nonroot
-ENTRYPOINT bundle exec jekyll serve --config _config.yml --host 0.0.0.0
+ENTRYPOINT JEKYLL_ENV=production bundle exec jekyll serve --config _config.yml --host 0.0.0.0
