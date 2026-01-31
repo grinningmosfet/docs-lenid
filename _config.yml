@@ -3,7 +3,7 @@ theme: just-the-docs
 title: Docs Le Nid
 description: Aide-mémoire du Nid
 
-url: https://lenid.docs.slowte
+url: https://lenid.docs.slowte.ch
 baseurl: ''
 
 defaults:
