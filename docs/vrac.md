@@ -14,7 +14,7 @@ layout: default
 
 ---
 
-<img src="../img/weight_kilogram.svg" style="display:block;max-width:200px;max-height:200px;margin:3em auto">
+<img src="../img/object_plastic_bag.svg" style="display:block;max-width:200px;max-height:200px;margin:3em auto">
 
 ---
 
