@@ -6,6 +6,16 @@ layout: default
 # Rayon boulangerie
 {: .no_toc }
 
+---
+
+## Table des matières
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 <img src="../img/food_bread-2_6XjglvZ.svg" style="display:block;max-width:200px;max-height:200px;margin:3em auto">
 
 Différentes boulangeries livrent chaque jour leur pain au Nid. Tous les pains ne se conservent pas de la même manière.
@@ -21,12 +31,6 @@ Certains produits de boulangerie se trouvent hors du rayon pains. Ce tableau don
 | Pâtes à gâteau | Vitrine frigorifique |
 | Pâtes à pizza | Congélateur n°3 |
 | Pâtés à la viande | Vitrine frigorifique |
-
-## Table des matières
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
