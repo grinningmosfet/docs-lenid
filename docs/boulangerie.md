@@ -6,6 +6,9 @@ layout: default
 # Rayon boulangerie
 {: .no_toc }
 
+{: .note }
+Un catalogue illustré des pains est accroché au meuble en bois du rayon pains. Le planning des livraisons du pain est affiché au-dessus du rayon pains.
+
 ## Table des matières
 {: .no_toc .text-delta }
 
@@ -16,10 +19,9 @@ layout: default
 
 <img src="../img/food_bread-2_6XjglvZ.svg" style="display:block;max-width:200px;max-height:200px;margin:3em auto">
 
-Différentes boulangeries livrent chaque jour leur pain au Nid. Tous les pains ne se conservent pas de la même manière.
+---
 
-{: .note }
-Un catalogue illustré des pains est accroché au meuble en bois du rayon pains. Le planning des livraisons du pain est affiché au-dessus du rayon pains.
+## Emplacement des catégories de produits
 
 Certains produits de boulangerie se trouvent hors du rayon pains. Ce tableau donne une vue d'ensemble des emplacements des produits de boulangerie de l'épicerie. 
 
@@ -29,8 +31,6 @@ Certains produits de boulangerie se trouvent hors du rayon pains. Ce tableau don
 | Pâtes à gâteau | Vitrine frigorifique |
 | Pâtes à pizza | Congélateur n°3 |
 | Pâtés à la viande | Vitrine frigorifique |
-
----
 
 ## Mise en place
 {: .d-inline-block }
