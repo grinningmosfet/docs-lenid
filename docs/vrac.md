@@ -6,8 +6,6 @@ layout: default
 # Rayon vrac
 {: .no_toc }
 
-<img src="../img/weight_kilogram.svg" style="display:block;max-width:200px;max-height:200px;margin:3em auto">
-
 ## Table des matières
 {: .no_toc .text-delta }
 
@@ -16,14 +14,11 @@ layout: default
 
 ---
 
-## Réassort vrac
-{: .d-inline-block }
+<img src="../img/weight_kilogram.svg" style="display:block;max-width:200px;max-height:200px;margin:3em auto">
 
-{: .warning }
-Se laver les mains et utiliser un **nouveau** contenant **propre** et **sec** à chaque remplissage.
+---
 
-1. Remplir silos et bocaux à vrac avec les produits du stock. Une notice pour le montage et le démontage des silos à vrac est attachée aux étagères en métal devant le lavabo au 1er étage.
-2. Mettre à jour les prix et signaler les produits hors stock selon la procédure habituelle.
+## Emplacement des catégories de produits
 
 Ci-dessous un tableau des catégories de produits distribués en vrac et de leurs emplacements en stock :
 
@@ -38,6 +33,15 @@ Ci-dessous un tableau des catégories de produits distribués en vrac et de leur
 | Huiles et vinaigres | Bas de rayon et stock 1er étage |
 | Tomates séchées, olives, etc. | Chambre froide n°1 |
 
+## Réassort vrac
+{: .d-inline-block }
+
+{: .warning }
+Avant chaque remplissage, se laver les mains et utiliser un **nouveau** contenant **propre** et **sec**.
+
+1. Remplir silos et bocaux à vrac avec les produits du stock. Une notice pour le montage et le démontage des silos à vrac est attachée aux étagères en métal devant le lavabo au 1er étage.
+2. Mettre à jour les prix et signaler les produits hors stock selon la procédure habituelle.
+
 ## Nettoyage des ustensiles
 
 Récupérer tous les ustensiles servant au vrac, p.ex. : 
@@ -49,4 +53,4 @@ Récupérer tous les ustensiles servant au vrac, p.ex. :
  - Pinces pour les chocolats
 
 Mettre à laver à la machine tous les ustensiles servant au vrac. La machine est au 1er étage sous le lavabo.
-Le savon en poudre et sel se trouvent dans l’armoire sous le lavabo de la cuisine.
+Le savon en poudre et le sel se trouvent dans l’armoire sous le lavabo de la cuisine.
