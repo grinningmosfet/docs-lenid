@@ -6,8 +6,6 @@ layout: default
 # Rayon boulangerie
 {: .no_toc }
 
----
-
 ## Table des matières
 {: .no_toc .text-delta }
 
@@ -37,7 +35,8 @@ Certains produits de boulangerie se trouvent hors du rayon pains. Ce tableau don
 ## Mise en place
 {: .d-inline-block }
 
-Shift d'ouverture {: .label .label-green}
+Shift d'ouverture
+{: .label .label-green}
 
  1. Mettre en rayon le pain de la veille, stocké dans les sacs placés sur le rayon et au bas de celui-ci.
  2. Vérifier les livraisons du jour selon la procédure habituelle et les mettre en rayon. S'aider du tableau ci-dessus.
